@@ -26,3 +26,4 @@ def to_ints(hex)
     s.hex
   end
 end
+

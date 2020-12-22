@@ -11,3 +11,4 @@ class RgbTest < Minitest::Test
     assert_equal [0, 0, 0], to_ints('#000000')
   end
 end
+
